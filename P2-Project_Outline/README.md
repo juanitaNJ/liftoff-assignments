@@ -7,12 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+Bad at remembering what you've told yourself you need to do? Hate using sticky notes since they can't easily travel with you? Let me tell you about our reminder app! Its two main functions are to create simple, one time reminders or even set a routine to remind yourself of all the steps to! It may even help with motivation if you've got your phone pestering you to do that one step you didn't complete in your routine.
+
 ### Features
-Include Features here
+
+User login: Users will be able to create their own account and log in and log out of the app.
+Create routine: Users can create a routine that can have several reminders / steps within it.
+Create reminder: Users can create single reminders on their own.
+
 ### Technologies
-Include Technologies here
+
+Java
+Sprint Boot
+Thymeleaf templates
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+How to make notifications pop up on a timer and have them snooze / silenced at the press of a button (and then have them repeat the next day if it applies to that reminder / routine). 
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/duvHcEzP/lift-off
