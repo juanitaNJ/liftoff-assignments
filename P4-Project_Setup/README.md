@@ -7,4 +7,5 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+(Practice) https://github.com/juanitaNJ/hello-spring-liftoff/tree/master
+(Actual Project) https://github.com/April-2022-LC-LiftOff/JonH-GroupProject-Liftoff22
